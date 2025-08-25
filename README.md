@@ -48,20 +48,6 @@ The dataset contains:
 
 ---
 
-## 📊 Dashboard Visuals
-
-> ⚠️ Click the images below to expand and explore.
-
-### 🔹 Overview Page  
-![Overview](./images/Overview.png)
-
-### 🔹 Policy & Claim Analysis Page  
-![Policy and Claims](./images/Claim-analysis.png)
-
-### 🔹 Customer Feedback & Sentiment Analysis  
-![Feedback](./images/Feedback.png)
-
----
 
 ## 📈 Insights Generated
 
